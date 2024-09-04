@@ -1,0 +1,12 @@
+.tesla{
+    text-align: center;
+    color: black;
+    background-color: rgba(176, 224, 230, 0.704);
+    border: solid red 6px;
+    border-radius: 20px;
+}
+.safina{
+    text-align: center;
+    background-color: lawngreen;
+    width: 250px;
+}
